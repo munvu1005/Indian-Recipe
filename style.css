@@ -1,0 +1,37 @@
+body {
+  background-color: white ;
+}
+
+img {
+  height: 150px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.ingredients li {
+  list-style: square;
+}
+
+.time {
+  background-color: gray;
+  color : white;
+}
+
+.external-link {
+
+}
+#cook-time {
+  bold
+}
+.external-link {
+  color : lime;
+}
+h1,h2,p,li{
+  font-family: Helvetica;
+}
